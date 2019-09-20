@@ -1,0 +1,117 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>
+</title>
+<style>
+.a{
+position: relative;
+width: 100%;
+height:450px;
+background-color:black;
+border-radius: 0 0 300px 300px;
+box-shadow: 10px 10px 10px 10px grey;
+}
+.c h3{
+position: absolute;
+top: 300px;
+left: 550px;
+color: white;
+font-size: 30px
+}
+.c h2{
+position: absolute;
+top: 20px;
+left: 600px;
+color: white;
+font-size: 30px;
+}
+.c h1{
+padding: 10px;
+border: 2px solid white;
+position: absolute;
+top: 70px;
+left: 250px;
+color: white;
+font-size: 100px;
+}
+div.card {
+  position: relative;
+float: left;
+  width: 30%;
+margin: 20px ;
+box-shadow: 10px 10px 10px 10px grey;
+}
+.f {
+    width: 100%;
+  height: 500px;
+}
+
+.det {
+width:100%;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background-color: black;
+opacity: 0.7;
+ overflow: hidden;   
+height: 100%;
+  height:0;
+  transition: .5s ease;
+}
+
+.card:hover .det {
+  top: 0;
+height: 100%;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<div class="a">
+<div class="c">
+<h2> KNOW US</h2>
+<h1> TEAM PENSEURS</h1>
+<h3> AVISHKAR 2019</h3>
+</div>
+</div>
+<div class="card">
+<img class="f" src="https://fsa.zobj.net/crop.php?r=Bv3iIuqDBxZ3krDOiK-1dNkPHaDrcc2oK0X0zOU97xEyMeZvFOaBiXAx5DKqpTLdYYtndOKTk-cB-EgJHjJ9hR4JlS2l9OCwmHGdRp1MUr8QV4SpnRoIHL2vldh3U2T5MGIPDR0CcbbKsfOzTKlDhVFBu1X0TLcfAmSQHcIfSE_1ITToc-Negl6oP0o">
+
+<div class="det">
+<div class="text">
+<h1>SUMEET DEBNATH</h1>
+<h2> ELECTRONICS AND COMMUNICATION ENGINEERING</h2>
+</div>
+</div>
+</div>
+<div class="card">
+<img class="f" src="https://fsa.zobj.net/crop.php?r=Bv3iIuqDBxZ3krDOiK-1dNkPHaDrcc2oK0X0zOU97xEyMeZvFOaBiXAx5DKqpTLdYYtndOKTk-cB-EgJHjJ9hR4JlS2l9OCwmHGdRp1MUr8QV4SpnRoIHL2vldh3U2T5MGIPDR0CcbbKsfOzTKlDhVFBu1X0TLcfAmSQHcIfSE_1ITToc-Negl6oP0o">
+
+<div class="det">
+<div class="text">
+<h1>VINEETA </h1>
+</div>
+</div>
+</div>
+<div class="card">
+<img class="f" src="https://fsa.zobj.net/crop.php?r=Bv3iIuqDBxZ3krDOiK-1dNkPHaDrcc2oK0X0zOU97xEyMeZvFOaBiXAx5DKqpTLdYYtndOKTk-cB-EgJHjJ9hR4JlS2l9OCwmHGdRp1MUr8QV4SpnRoIHL2vldh3U2T5MGIPDR0CcbbKsfOzTKlDhVFBu1X0TLcfAmSQHcIfSE_1ITToc-Negl6oP0o">
+
+<div class="det">
+<div class="text">
+<h1>SHRISTI</h1>
+</div>
+</div>
+</div>
+</body>
+</html>

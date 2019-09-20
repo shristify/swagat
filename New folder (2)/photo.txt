@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+<head>
+<title>
+</title>
+<style>
+div.head{
+width: 100%;
+border: 1px solid black;
+height: 700px;
+background-image: url("https://scontent.fdel29-1.fna.fbcdn.net/v/t31.0-8/29873359_391200444678159_3606979032520068505_o.jpg?_nc_cat=101&_nc_oc=AQl_DSDpzDYIkqP4cMyfPAqSMrH7u8cRQ3SefDR-QJyVO7m09Y_NiXCYjyniYOmfaHc&_nc_ht=scontent.fdel29-1.fna&oh=1487c2f66d0d20d17c255981bbfee9e4&oe=5DFFA62F");
+ min-height: 500px; 
+ background-size: 2000px 1000px;
+background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+ div.head h1{
+font-family:gabriola;
+text-align: center;
+color: white;
+border: 4px solid white;
+margin-top: 200px;
+font-size: 200px;
+}
+ul.hor {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-image: linear-gradient(to right, red ,blue);
+  position: sticky;
+  top: 0;
+}
+
+li.b {
+  float: left;
+font-size: 20px;
+}
+
+li.b a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li.b a:hover {
+  background-color: #111;
+}
+div.he
+{
+box-shadow: 10px 10px 10px 10px grey;
+background-image: linear-gradient(to bottom, orange, red);
+}
+img.g{
+width:600px;
+height: 600px;
+padding: 10px;
+margin: auto;
+box-shadow: 10px 10px 10px 10px grey;
+transition: width 2s, height 2s;
+display: inline-block;
+}
+.container {
+  position: relative;
+  width:100%;
+  margin: 0 auto;
+}
+
+.container img {
+vertical-align: middle;
+width:100%;
+height: 300px;}
+
+ .content {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 97%;
+  padding: 20px;
+}
+a.cc {
+text-decoration: none;
+font-size:20px;
+}
+a.cc img{
+width: 100px;
+height: 100px;
+}
+</style>
+</head>
+<body>
+<div class="head">
+<h1>
+<b><i>SWAGAT 2K19</i></b></h1>
+</div>
+<ul class="hor">
+<li class="b"><a href="swagat.html">HOME </a></li>
+
+<li class="b"><a href="photo.html">PHOTOS</a></li>
+<li class="b" style="float:right;"><a href="team.html">CONTACT</a></li>
+</ul>
+<div class="he">
+<h1 style="text-align: center; padding: 30px; margin: 20px;"> EXPERIENCE THE THRILLING MOMENTS OF SWAGAT 2019</h1>
+</div>
+<img class="g" src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/69554643_690731821391685_8731481106165006336_n.jpg?_nc_cat=105&_nc_oc=AQk4kUMn3JtvI2Oy_6P0TY7QJd7qVNf6aR0ztpxA2a1zkbQnSzmyHmcQdsNzbC_4nUg&_nc_ht=scontent.fdel29-1.fna&oh=13424e83883d7aa3d9355370e91aebdf&oe=5E040A46">
+
+<img class="g"  src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/69749116_690732358058298_8467242636372082688_n.jpg?_nc_cat=109&_nc_oc=AQlq5R7RVNCA8JylUWX_nt28GbB-EDfyJWFeJ02AzQS3G85jW7da7pJjgy314ljl3AY&_nc_ht=scontent.fdel29-1.fna&oh=65cb2db6433eda5d993841811b47dc60&oe=5E1206F8">
+
+<img class="g"  src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/69537444_690732334724967_6229550269835771904_n.jpg?_nc_cat=103&_nc_oc=AQmyxr4DN9rJqNTo6_GFYUHgPw1ngaXlu5q2qi-zG-ufYyLisREE3vYx2X1GAMxJ5QA&_nc_ht=scontent.fdel29-1.fna&oh=36b8583ee7f1c26fdd5028ba3dbd05eb&oe=5E092F19">
+
+<img class="g"  src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/69497166_690725031392364_8127751022383726592_n.jpg?_nc_cat=108&_nc_oc=AQl8f81xjRjmo0NUbhQjQEbIZ7VXP4_Yv-WED6jxUR4m7QSOKC4z0dvWjr-gBlPM9Bg&_nc_ht=scontent.fdel29-1.fna&oh=4d5b7e93ceb66e9e77e50d18cbac309c&oe=5DF3D22D">
+
+<img class="g" src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/69819492_690728358058698_2678968499212124160_n.jpg?_nc_cat=107&_nc_oc=AQlgY4520ypmnZUQ18rjUx1mqwgWarKQUmV6wh1n9LuvevUVRdKjjIeeATr3CKdvDe4&_nc_ht=scontent.fdel29-1.fna&oh=67edc40b094a42c32d4deed6686161ec&oe=5DFFB0A7">
+
+<img class="g" src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/70281551_690728231392044_5987284698110361600_n.jpg?_nc_cat=106&_nc_oc=AQk4542HYs2SJzXci3GI4qDeXU2ADGGhV4pK_B7JIX6MSRtBJ7u_YFfZjzJhMEt-FnM&_nc_ht=scontent.fdel29-1.fna&oh=a27793fee00c06f2f00430c5e3ab4b35&oe=5E12EBE7">
+
+<img class="g" src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/69889928_691371111327756_4542894704068395008_n.jpg?_nc_cat=111&_nc_oc=AQk0OLB6L1g9JwcJx9lOYSqszoOcmzAlyViQjkroCEua-Z4JGZ-7h8d9dLayg9R-rhA&_nc_ht=scontent.fdel29-1.fna&oh=e468988012f21e6fe89a180813d03d5a&oe=5DFE27C8">
+<img class="g" src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/69702691_691372741327593_10395680577159168_n.jpg?_nc_cat=110&_nc_oc=AQmo2YqT0vTaMYlRJh_Zp0en4VyrMkuhTFOn4eIK9uLZ1PEFU44z-FFKgKa096IQi0g&_nc_ht=scontent.fdel29-1.fna&oh=1c76ae8e08796928685c5f05bc357525&oe=5E0C8E3E">
+<img class="g" src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/69898967_691373687994165_1713010112160858112_n.jpg?_nc_cat=102&_nc_oc=AQm61lMExrHcsQytPUNjg49BmgeUIdCt-LNW2JrYr1TKzjVLo-rW5_sJYasDm33Bizg&_nc_ht=scontent.fdel29-1.fna&oh=1b5578a55ca24bfba790153ed234c229&oe=5E0E5DF9">
+<img class="g" src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/69691533_691373134660887_3266659753475964928_n.jpg?_nc_cat=100&_nc_oc=AQkmCk1Zmp4omOcXbjS19iZhvGgY66N9jHtAy6dDrcS1wydKuLMWkDLSdjfbJ2FpEX0&_nc_ht=scontent.fdel29-1.fna&oh=1e1569a39f9c08fa848cb88ad338786d&oe=5E0A899A">
+<img class="g" src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/69787351_691957937935740_884335132046000128_n.jpg?_nc_cat=100&_nc_oc=AQkkFkhQKKZ9lszW0sxR1HkWQzHQ4JgiJOiKK9Lu5_mOjQmsDzGQJs3jSwZbFDxyToY&_nc_ht=scontent.fdel29-1.fna&oh=c7db82d6e6821c98aed9cec5e29000ae&oe=5E00D7D9">
+<img class="g" src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/70123387_691960791268788_3018364696207032320_n.jpg?_nc_cat=101&_nc_oc=AQljEjQ_BUSPqTynxKS8O-0vSoV1X__j8v0ATB_qslhHC2yP2IwFtb_tOzGzEvtd2T8&_nc_ht=scontent.fdel29-1.fna&oh=3d1639f8adcba2dcd0303c630bc792e9&oe=5DFACF79">
+<img class="g" src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/69539296_691961181268749_7934746792808153088_n.jpg?_nc_cat=105&_nc_oc=AQmrJCrgqUQVLbRbptUko1a8tlb_fcmWZG6XUHx9Hpn6DQBLI3UupKOBLH8nnMbbG0I&_nc_ht=scontent.fdel29-1.fna&oh=9f60ce875c86c9ef5711a2a8ec0b4c1d&oe=5DFE3304">
+<img class="g" src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/69944716_691374447994089_7996985335693180928_n.jpg?_nc_cat=108&_nc_oc=AQnrEV15uwj3uzjuUp_b7hQ6NSgQ1TrvGg_g4Df4FNvZXmhJGPrU3-Jf54Osj8Jx_8g&_nc_ht=scontent.fdel29-1.fna&oh=8718ccfd15d8e5d2544193cb681623ce&oe=5DF7D660">
+ 
+<div class="container">
+<img src="https://mondaymorning.nitrkl.ac.in/uploads/post/college-fest-1050x591.jpg">
+<div class="content">
+<h1>STILL NOT SATISFIED!!!</h1>
+<h3>Visit Our FACEBOOK page.</h3>
+ <a class="cc" href="https://www.facebook.com/pg/MHM.MNNIT/photos/?tab=album&album_id=690724138059120&ref=page_internal">
+<img src="https://scontent.fdel29-1.fna.fbcdn.net/v/t1.0-9/30582318_391198624678341_2254677701395875326_n.jpg?_nc_cat=105&_nc_oc=AQkmpNAlyRI93xypddbveSgozUxTNaGTjji0E3N1cVUa0G-85N1wCxF6xhodgQImMZU&_nc_ht=scontent.fdel29-1.fna&oh=4e4c281b3bb51b5f82cde8df6ec85791&oe=5DF3C727" ></a>
+</div>
+</div>
+
+</body>
+</html>
